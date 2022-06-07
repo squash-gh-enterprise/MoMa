@@ -1,0 +1,4 @@
+deployments:
+  MoMa-Paintings:
+    filename: ./docker-compose.yml
+    vm_size: 1GB
